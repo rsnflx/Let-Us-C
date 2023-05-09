@@ -1,0 +1,14 @@
+//
+//  main.c
+//  ExampleProject
+//
+//  Created by Felix Rosén on 2023-05-01.
+//
+
+#include <stdio.h>
+
+int main(void) {
+    
+    printf("Hello, World!\n");
+    return 0;
+}
